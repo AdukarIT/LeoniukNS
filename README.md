@@ -9,7 +9,7 @@
    - 1.2 vk.com
    - 1.3 Перенаправление на https://www.google.com/
 
-[Решение 2.1](https://jsfiddle.net/RainyNick/pcjmwtz6/)
-[Решение 2.2](https://jsfiddle.net/RainyNick/uaohds56/)
+   [Решение 2.1](https://jsfiddle.net/RainyNick/pcjmwtz6/)
+   [Решение 2.2](https://jsfiddle.net/RainyNick/uaohds56/)
 
 2. # Система контроля версий. IDE и редакторы
