@@ -5,14 +5,14 @@
 [Презентация ;](https://docs.google.com/presentation/d/1zfDRP1nq9DJJbuWsHeGOGXB_qqSscd-lUq0fVfs7E0o/edit)
 [Домашнее задание](https://github.com/AdukarIT/_Tasks_/blob/master/task1.pdf)
 
-Task 1:
+Задача 1:
 
 - 1.1 301 Moved Permanently
 - 1.2 VK
 - 1.3 Перенаправление на https://www.google.com/
 
-[Task 2.1](https://jsfiddle.net/RainyNick/pcjmwtz6/)
-[Task 2.2](https://jsfiddle.net/RainyNick/q2p7xhbL/)
+[Задача 2.1](https://jsfiddle.net/RainyNick/pcjmwtz6/)
+[Задача 2.2](https://jsfiddle.net/RainyNick/q2p7xhbL/)
 
 ### 2. Система контроля версий. IDE и редакторы
 
@@ -23,7 +23,8 @@ Task 1:
 [Презентация ;](https://docs.google.com/presentation/d/1WgUWIp_JkCTRVB6V4jDXOt1cN694DYananXn-s5GSOg/edit)
 [Домашнее задание](https://github.com/AdukarIT/_Tasks_/blob/master/HTML-bases.md)
 
-[Task 1](https://github.com/AdukarIT/LeoniukNS/tree/master/Repair%20service)
+[Задача 1](https://github.com/AdukarIT/LeoniukNS/tree/master/Repair%20service)
+[Задача 2](https://github.com/AdukarIT/LeoniukNS/tree/master/Equipment%20shop)
 
 ### 4. Формы. Ссылочные протоколы
 
