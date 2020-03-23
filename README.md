@@ -7,9 +7,9 @@
 
 - Задача 1:
 
--- 1.1 301 Moved Permanently
--- 1.2 VK
--- 1.3 Перенаправление на https://www.google.com/
+* 1.1 301 Moved Permanently
+* 1.2 VK
+* 1.3 Перенаправление на https://www.google.com/
 
 - [Задание 2.1; ](https://jsfiddle.net/RainyNick/pcjmwtz6/)
 [Задание 2.2](https://jsfiddle.net/RainyNick/q2p7xhbL/)
