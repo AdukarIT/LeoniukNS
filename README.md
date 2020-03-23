@@ -2,16 +2,16 @@
 
 ### 1. Введение в Web-разработку
 
-[Презентация ;](https://docs.google.com/presentation/d/1zfDRP1nq9DJJbuWsHeGOGXB_qqSscd-lUq0fVfs7E0o/edit)
+- [Презентация ;](https://docs.google.com/presentation/d/1zfDRP1nq9DJJbuWsHeGOGXB_qqSscd-lUq0fVfs7E0o/edit)
 [Домашнее задание](https://github.com/AdukarIT/_Tasks_/blob/master/task1.pdf)
 
 Задача 1:
 
-- 1.1 301 Moved Permanently
-- 1.2 VK
-- 1.3 Перенаправление на https://www.google.com/
+1.1 301 Moved Permanently
+1.2 VK
+1.3 Перенаправление на https://www.google.com/
 
-[Задание 2.1; ](https://jsfiddle.net/RainyNick/pcjmwtz6/)
+- [Задание 2.1; ](https://jsfiddle.net/RainyNick/pcjmwtz6/)
 [Задание 2.2](https://jsfiddle.net/RainyNick/q2p7xhbL/)
 
 ### 2. Система контроля версий. IDE и редакторы
@@ -20,18 +20,18 @@
 
 ### 3. Основы HTML
 
-[Презентация ;](https://docs.google.com/presentation/d/1WgUWIp_JkCTRVB6V4jDXOt1cN694DYananXn-s5GSOg/edit)
+- [Презентация ;](https://docs.google.com/presentation/d/1WgUWIp_JkCTRVB6V4jDXOt1cN694DYananXn-s5GSOg/edit)
 [Домашнее задание](https://github.com/AdukarIT/_Tasks_/blob/master/HTML-bases.md)
 
-[Задание 1; ](https://github.com/AdukarIT/LeoniukNS/tree/master/Repair%20service)
+- [Задание 1; ](https://github.com/AdukarIT/LeoniukNS/tree/master/Repair%20service)
 [Задание 2](https://github.com/AdukarIT/LeoniukNS/tree/master/Equipment%20shop)
 
 ### 4. Формы. Продвинуты HTML
 
-[Презентация; ](https://docs.google.com/presentation/d/1B7GfnKnFNWmcSOUDwFebyjLUJKhT4YbYA8YgVrJWND4/edit#slide=id.g71928f03df_0_0)
+- [Презентация; ](https://docs.google.com/presentation/d/1B7GfnKnFNWmcSOUDwFebyjLUJKhT4YbYA8YgVrJWND4/edit#slide=id.g71928f03df_0_0)
 [Домашнее задание](https://github.com/AdukarIT/_Tasks_/blob/master/homeworks/HTML-advance.md)
 
-[Задача 1; ](https://github.com/AdukarIT/LeoniukNS/tree/master/Social%20(Inst.))
+- [Задача 1; ](https://github.com/AdukarIT/LeoniukNS/tree/master/Social%20(Inst.))
 [Задача 2]()
 
 ### 
