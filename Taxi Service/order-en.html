@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Заказать Такси</title>
+</head>
+
+<body>
+
+    <header>
+        <p><img src="materials/Logo.png" alt="Логотип">
+            Order a taxi Online</p>
+
+        <p><a href="order-by.html">BY</a> /
+            <a href="order-ru.html">RU</a></p>
+
+    </header>
+
+    <main>
+
+        <fieldset>
+            <legend>Order a taxi</legend>
+            <form action="">
+
+                <p><b><label for="name">Name</b></label>
+                    <input placeholder="Write your name" id="name" type="text"></p>
+                <p><b><label for="adress">Adress</b></label>
+                    <input required placeholder="Your adress" id="adress" type="text"></p>
+                <p><b><label for="tel">Mobile number</b></label>
+                    <input required placeholder="Mobile number" id="tel" type="tel"></p>
+
+                <div>
+                    <p><b>Select the payment type:</b></p>
+                    <p>
+                        <input name='paymethod' id="radio2" type="radio" checked value="cash">
+                        <label for="radio2">Cash</label>
+                        <label><input name='paymethod' id="radio1" type="radio" value="card">Credit Card</label>
+                        <!-- Попробовал тут оформить "label" по разному -->
+                    </p>
+                </div>
+
+                <p><b><label for="autoclass">Car class:</b></label>
+                    <select id='autoclass' name=”autoclass”>
+                        <option value=”base” selected>Standart</option>
+                        <option value=”premium”>Premium</option>
+                        <option value=”lux”>Lux</option>
+                    </select></p>
+
+                <b>Additional option:</b>
+                <p><input id='mini' type="checkbox">
+                    <label for="mini">Minivan</label></p>
+                <p><input id='kid' type="checkbox">
+                    <label for="kid">Child safety seat</label></p>
+                <p><input id='lang' type="checkbox">
+                    <label for="lang">English speaking driver</label></p>
+                <p><input id='music' type="checkbox">
+                    <label for="music">I ordered music. (5$)</label></p>
+
+                <p><b>Additional requests:</b></p>
+                <textarea name="" id="" cols="37" rows="5"
+                    placeholder="Here you can write additional information, for example, if you will be with an animal , etc."></textarea>
+                <p><input type='submit' value="Find the Car"></p>
+
+            </form>
+        </fieldset>
+
+    </main>
+
+    <footer><br>
+        Contact number:
+        <a href="tel:+375296265300">+375 (29) 62-65-300</a>
+        <p><button><a name="app" href="" download=""><img src="materials/app.png" alt="Приложнеие">
+                    Download App</a></button></p>
+    </footer>
+
+</body>
+
+</html>

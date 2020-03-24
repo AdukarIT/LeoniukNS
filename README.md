@@ -26,7 +26,7 @@
 [Задание 1; ](https://github.com/AdukarIT/LeoniukNS/tree/master/Repair%20service)
 [Задание 2](https://github.com/AdukarIT/LeoniukNS/tree/master/Equipment%20shop)
 
-### 4. Формы. Продвинуты HTML
+### 4. Формы. Продвинутый HTML
 
 [Презентация; ](https://docs.google.com/presentation/d/1B7GfnKnFNWmcSOUDwFebyjLUJKhT4YbYA8YgVrJWND4/edit#slide=id.g71928f03df_0_0)
 [Домашнее задание](https://github.com/AdukarIT/_Tasks_/blob/master/homeworks/HTML-advance.md)

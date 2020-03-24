@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Заказать Такси</title>
+</head>
+
+<body>
+
+    <header>
+        <p><img src="materials/Logo.png" alt="Логотип">
+            Замовіць Таксі Онлайн
+
+            <p><a href="order-ru.html">RU</a> /
+                <a href="order-en.html">EN</a></p>
+
+    </header>
+
+    <main>
+
+        <fieldset>
+            <legend>Форма замовы таксі</legend>
+            <form action="">
+
+                <p><b><label for="name">імя</b></label>
+                    <input placeholder="Введите ваше имя" id="name" type="text"></p>
+                <p><b><label for="adress">Адрас</b></label>
+                    <input required placeholder="Адрес для такси" id="adress" type="text"></p>
+                <p><b><label for="tel">Тэлефон</b></label>
+                    <input required placeholder="мабільны нумар" id="tel" type="tel"></p>
+
+                <div>
+                    <p><b>Выберыце тып аплаты:</b></p>
+                    <p>
+                        <input name='paymethod' id="radio2" type="radio" checked value="cash">
+                        <label for="radio2">Наяўныя</label>
+                        <label><input name='paymethod' id="radio1" type="radio" value="card">Картка</label>
+                        <!-- Попробовал тут оформить "label" по разному -->
+                    </p>
+                </div>
+
+                <p><b><label for="autoclass">Клас аўтамабіля</b></label>
+                    <select id='autoclass' name=”autoclass”>
+                        <option value=”base” selected>Стандарт</option>
+                        <option value=”premium”>Прэміум</option>
+                        <option value=”lux”>Люкс</option>
+                    </select></p>
+
+                <b>Дадатковыя опцыі:</b>
+                <p><input id='mini' type="checkbox">
+                    <label for="mini">Мінівэн</label></p>
+                <p><input id='kid' type="checkbox">
+                    <label for="kid">Крэсла для дзіцяці</label></p>
+                <p><input id='lang' type="checkbox">
+                    <label for="lang">Ангельскамоўны кіроўца</label></p>
+                <p><input id='music' type="checkbox">
+                    <label for="music">Я заказываю музыку (150₽)</label></p>
+
+                <p><b>Дадатковыя пажаданні:</b></p>
+                <textarea name="" id="" cols="37" rows="5"
+                    placeholder="Тут Вы можаце напісаць дадатковую інфармацыю, напрыклад, калі вы будзеце з жывёлай і г.д."></textarea>
+                <p><input type='submit' value="Замовіць"></p>
+
+            </form>
+        </fieldset>
+
+    </main>
+
+    <footer><br>
+        Тэлефон для сувязі
+        <a href="tel:+375296265300">+375 (29) 62-65-300</a>
+        <p><button><a name="app" href="" download=""><img src="materials/app.png" alt="Приложнеие">
+                    Мабільнае прыкладанне</a></button></p>
+    </footer>
+
+</body>
+
+</html>
