@@ -32,6 +32,6 @@
 [Домашнее задание](https://github.com/AdukarIT/_Tasks_/blob/master/homeworks/HTML-advance.md)
 
 [Задача 1; ](https://github.com/AdukarIT/LeoniukNS/tree/master/Social%20(Inst.))
-[Задача 2]()
+[Задача 2](https://github.com/AdukarIT/LeoniukNS/tree/master/Taxi%20Service)
 
 ### 
