@@ -34,4 +34,10 @@
 [Задача 1; ](https://github.com/AdukarIT/LeoniukNS/tree/master/Social%20(Inst.))
 [Задача 2](https://github.com/AdukarIT/LeoniukNS/tree/master/Taxi%20Service)
 
-### 
+### 5. Введение в CSS
+
+[Презентация; ](https://docs.google.com/presentation/d/1gYiitrq-vvtLipHDg6aDO9Er2QRrRKGzN3bn9vTJIzk/edit)
+
+[Задача 1](https://jsfiddle.net/RainyNick/tkjzqd81/)
+
+
