@@ -40,4 +40,29 @@
 
 [Задача 1](https://jsfiddle.net/RainyNick/tkjzqd81/)
 
+### 6. CSS. Блочная модель. Позиционирование
+
+[Презентация; ](https://docs.google.com/presentation/d/1eD0Z5AaLocqRZRstE4Deov9RDTsY5BphlyoYwlKFAEo/edit)
+
+### 7. Практическое задан
+
+- Практика
+
+### 8. CSS. Float. Псевдоклассы. Сложные селекторы. Каскад
+
+[Презентация; ](https://docs.google.com/presentation/d/18RtWMsvRhZA-L7z_EuzSVGMWufY_wMVb0FsN3QBOdTo/edit)
+[Домашнее задание: ](https://github.com/AdukarIT/_Tasks_/blob/master/homeworks/CSS-blocks.md)
+
+### 9. CSS. Видимость элементов. Именование классов. Методологии CSS. БЭМ
+
+[Презентация; ](https://docs.google.com/presentation/d/10Qgg_VqopIKhucOBcTu1cdSr2hG7003eWOkA6lJYDm0/edit)
+
+### 10. Изображения. Шрифты
+
+[Презентация; ](https://docs.google.com/presentation/d/1kf049V64KD4OMDeNqOoQMU-lBKsA9e6iUewlbPSHsYA/edit)
+
+[Домашнее задание: ](https://github.com/AdukarIT/_Tasks_/blob/master/homeworks/CSS-styles.md)
+
+[Задача 1](https://github.com/AdukarIT/LeoniukNS/tree/master/Beach);
+[Задача 2](https://github.com/AdukarIT/LeoniukNS/tree/master/Social%20(Inst.))
 
