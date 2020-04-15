@@ -5,6 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Feed</title>
+    <link rel="stylesheet" href="Style.css">
 </head>
 
 <body>
@@ -18,19 +19,22 @@
         <a href="photo-add.html">Добавить свой пост</a>
 
         <hr>
-        <fieldset>
-            <div class="post">
-                <img src="materials/Ava1.png" alt="Пользователь 1" height="100">
-                <h3>Phillip</h3>
-                <iframe height="240" width="400" src="https://www.youtube.com/embed/Y5iyGvHb41s"></iframe>
+        <div class="post">
+            <div class="post__item">
+                <div class='user__item'>
+                    <img class="user_avatar" src="materials/Ava1.jpg" alt="User Avatar">
+                    <p class="username__text">Eva</p>
+                </div>
+                <iframe class="post__item__material"
+                    src="https://instagram.fmsq3-1.fna.fbcdn.net/v/t50.2886-16/92214192_656861841768173_9057154621633611510_n.mp4?_nc_ht=instagram.fmsq3-1.fna.fbcdn.net&_nc_cat=105&_nc_ohc=X6yUkbIbKP8AX--Mai1&oe=5E98F8A7&oh=0561b8f40880725fdcfe75a7a3fc7c10"></iframe>
                 <p><a href="feed.html">#Коронавирус</a> Русским не страшен
                     <a href="feed.html">#ЭтоВсёАмерика</a> <a href="feed.html">#ЗаРоссиюМаттушку</a>
                 </p>
             </div>
 
 
-            <div class="comment">
-                <p><img src="materials/1.ico" alt="User_Avatar" height="32"> Username</p>
+            <div class="post__guest-comment">
+                <p><img class="different__user__icon" src="materials/1.ico" alt="User_Avatar"> Username</p>
                 <blockquote>
                     Какой-то оставленный комментарий
                 </blockquote>
@@ -44,21 +48,28 @@
                 </form>
             </div>
 
-        </fieldset>
+        </div>
 
-        <fieldset>
-            <div class="post">
-                <img src="materials/Ava2.png" alt="Пользователь 2" height="100">
-                <h3>Morty</h3>
-                <iframe height="240" width="400" src="https://www.youtube.com/embed/ckW3wIKCn1A"></iframe>
-                <p><a href="feed.html">#Финиш</a> Наконец закончили проект, это всё наши эмоции с тимлидом
-                    <a href="feed.html">#Эмоции</a>
-                    <a href="feed.html">#Докодились</a></p>
+
+
+        <div class="post">
+            <div class="post__item">
+                <div class='user__item'>
+                    <img class="user_avatar" src="materials/Ava2.jpg" alt="User Avatar" height="100">
+                    <p class="username__text">Maniusha_m</p>
+                </div>
+
+                <video controls class="post__item__material"
+                    src="https://instagram.fmsq3-1.fna.fbcdn.net/v/t50.2886-16/57057237_2176650662426707_3627957479066828800_n.mp4?_nc_ht=instagram.fmsq3-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=sQjp7z4z-sgAX-yoJ4A&oe=5E993820&oh=758623b400dac21a3ae622c766c9cb06"></iframe>
+
+                    <p><a href="feed.html">#Финиш</a> Наконец закончили проект, это всё наши эмоции с тимлидом
+                        <a href="feed.html">#Эмоции</a>
+                        <a href="feed.html">#Докодились</a></p>
             </div>
 
 
-            <div class="comment">
-                <p><img src="materials/2.ico" alt="User_Avatar" height="32"> Username</p>
+            <div class="post__guest-comment">
+                <p><img class="different__user__icon" src="materials/2.ico" alt="User_Avatar"> Username</p>
                 <blockquote>
                     Какой-то оставленный комментарий
                 </blockquote>
@@ -72,20 +83,23 @@
                 </form>
             </div>
 
-        </fieldset>
+        </div>
 
-        <fieldset>
-            <div class="post">
-                <img src="materials/Ava3.png" alt="Пользователь 3" height="100">
-                <h3>Spain_HTML</h3>
-                <iframe height="240" width="400" src="https://www.youtube.com/embed/oEOHxxxkzCo"></iframe>
-                <p><a href="feed.html">#HTML</a> наше всё, вместе с
-                    <a href="feed.html">#CSS</a> <a href="#JS">#JS</a></p>
+
+
+        <div class="post">
+            <div class="post__item">
+                <div class='user__item'>
+                    <img class="user_avatar" src="materials/material 3.jpg" alt="User Avatar" height="100">
+                    <p class="username__text">vsempizdetsss</p>
+                </div>
+                <img class="post__item__material" src="materials/ava3.jpg" alt="Post">
+                <p><a href="feed.html">#Форма</a> Держим форму на карантине</p>
 
             </div>
 
-            <div class="comment">
-                <p><img src="materials/3.ico" alt="User_Avatar" height="32"> Username</p>
+            <div class="post__guest-comment">
+                <p><img class="different__user__icon" src="materials/3.ico" alt="User_Avatar"> Username</p>
                 <blockquote>
                     Какой-то оставленный комментарий
                 </blockquote>
@@ -100,7 +114,72 @@
                 </form>
             </div>
 
-        </fieldset>
+        </div>
+
+
+
+        <div class="post">
+            <div class="post__item">
+                <div class='user__item'>
+                    <img class="user_avatar" src="materials/Ava4.png" alt="User Avatar">
+                    <p class="username__text">Your_Demon</p>
+                </div>
+                <img class="post__item__material" src="materials/93473550_2752291931556757_7010419805484417765_n.jpg"
+                    alt="">
+                <p><a href="feed.html">#Мы</a> Любим покушац в
+                    <a href="feed.html">#Кафе</a> <a href="#JS">#Еда</a></p>
+
+            </div>
+
+            <div class="post__guest-comment">
+                <p><img class="different__user__icon" src="materials/4.ico" alt="User_Avatar"> Username</p>
+                <blockquote>
+                    Какой-то оставленный комментарий
+                </blockquote>
+            </div>
+
+
+            <div class="addComment">
+                <form action="feed.html">
+                    <p><b>Оставить комментарий:</b></p>
+                    <p><textarea maxlength="300" required name="comment" cols="50" rows="7"></textarea></p>
+                    <p><input type="submit"></p>
+                </form>
+            </div>
+
+        </div>
+
+
+
+        <div class="post">
+            <div class="post__item">
+                <div class='user__item'>
+                    <img class="user_avatar" src="materials/Ava5.png" alt="User Avatar" height="100">
+                    <p class="username__text">Voin__Sveta</p>
+                </div>
+                <video controls class="post__item__material"
+                    src="https://instagram.fmsq3-1.fna.fbcdn.net/v/t50.2886-16/92535723_4429827583709466_8403396578949284544_n.mp4?_nc_ht=instagram.fmsq3-1.fna.fbcdn.net&_nc_cat=106&_nc_ohc=y3w1cPo97m8AX_d-60X&oe=5E995B1D&oh=2dd06f845bd404350ca95aa5451a310f"></video>
+                <p><a href="feed.html">#Жыве</a> <a href="#JS">#Беларусь</a></p>
+
+            </div>
+
+            <div class="post__guest-comment">
+                <p><img class="different__user__icon" src="materials/5.ico" alt="User_Avatar"> Username</p>
+                <blockquote>
+                    Какой-то оставленный комментарий
+                </blockquote>
+            </div>
+
+
+            <div class="addComment">
+                <form action="feed.html">
+                    <p><b>Оставить комментарий:</b></p>
+                    <p><textarea maxlength="300" required name="comment" cols="50" rows="7"></textarea></p>
+                    <p><input type="submit"></p>
+                </form>
+            </div>
+
+        </div>
 
 
     </main>

@@ -1,0 +1,54 @@
+@font-face {
+    font-family: Biorhyme;
+    src: url(fonts/BioRhyme-Regular.otf);
+}
+
+html {
+    font-family: Biorhyme, Arial, Helvetica, sans-serif;
+}
+
+.post {
+    height: 450px;
+    width: 450px;
+    overflow: auto;
+    padding: 10px;
+    box-sizing: border-box;
+    border: 10px solid transparent;
+}
+
+.user__item {
+    display: inline-block;
+    margin: 10px;
+}
+
+.username__text {
+    font-family: 'Montserrat', sans-serif;
+    display: inline-block;
+    padding: 8px;
+    font-weight: 600;
+}
+
+.post:nth-of-type(odd) {
+    float: left;
+}
+
+.user_avatar {
+    float: left;
+    height: 64px;
+    width: 64px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+.different__user__icon {
+    width: 32px;
+    height: 32px;
+    object-fit: cover;
+}
+
+
+.post__item__material {
+    height: 400px;
+    width: 400px;
+    object-fit: cover;
+}

@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="ru">
+
+<head>
+	<meta charset="UTF-8">
+	<title>Cart</title>
+	<link rel="stylesheet" href="Style.css">
+	<link href="https://fonts.googleapis.com/css?family=Bellota+Text&display=swap" rel="stylesheet">
+</head>
+
+<body>
+	<header>
+		<nav class="main_menu">
+
+			<ul>
+				<li><a href="#"><img class="logotype" src="img/Logo_fix.png" alt="Лучшая техника твоего города"></a>
+				</li>
+				<li><a href="#">Бытовая техника</a>
+					<ul>
+						<li><a href="#">Стиральные машины</a></li>
+						<li><a href="#">Стиральные машины</a></li>
+						<li><a href="#">Пылесосы</a></li>
+						<li><a href="#">Швейные, вышивальные машины</a></li>
+						<li><a href="#">Утюги</a></li>
+						<li><a href="#">Электровеники</a></li>
+						<li><a href="#">Сушилки для обуви</a></a>
+						</li>
+					</ul>
+				</li>
+				<li><a href="#">Техника для кухни</a>
+					<ul>
+						<li><a href="#">Холодильники</a></li>
+						<li><a href="#">Кухонные плиты</a></li>
+						<li><a href="#">Морозильники</a></li>
+						<li><a href="#">Настольные плиты</a></li>
+						<li><a href="#">Ростеры, мини-печи</a></li>
+						<li><a href="#">Вытяжки</a></li>
+						<li><a href="#">Микроволновые печи</a></li>
+					</ul>
+				</li>
+				<li><a href="#">Компьютерная техника</a>
+					<ul>
+						<li><a href="#">Ноутбуки</a></li>
+						<li><a href="#">Планшеты</a></li>
+						<li><a href="#">Компьютеры, моноблоки</a></li>
+						<li><a href="#">Игровые приставки</a></li>
+						<li><a href="#">Серверное оборудование</a></li>
+					</ul>
+				</li>
+				<li><a class="cart" href="#">Корзина</a></li>
+			</ul>
+		</nav>
+	</header>
+
+	<main>
+		<div class="order">
+			<form action="#">
+				<fieldset>
+					<legend><b>Оформите заказ тут</b></legend>
+					<p><b>Имя: </b></label>
+						<input required placeholder="Введите ваше имя" id="name" type="text">
+						<p><b>Телефон: </b><input required placeholder="Введите номер мобильного" id="tel" type="tel">
+						</p>
+						<p><b>Email: </b><input required type="email" id="email" placeholder="Электронная почта"> </p>
+						<p><b>Выберите способ доставки:</b></p>
+						<ul>
+							<li class="radio2">
+								<label><input name='paymethod' id="radio2" type="radio" value="card"
+										checked>Доставка</label>
+								<ul>
+									<li><b>Адрес: <input placeholder="Введите свой адрес" requared type="text"></b></li>
+								</ul>
+							</li class='radio1'>
+							<li><label><input name='paymethod' id="radio1" type="radio" value="card">Самовывоз</label>
+								<ul>
+									<li>
+										<p>Беларусь, г.Минск <br> Ул. филимонова 43</p>
+										<iframe
+											src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3729.5862546093726!2d27.633526548089044!3d53.922999336742095!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x46dbcee51d21155b%3A0xcf62f662003a4e33!2z0YPQu9C40YbQsCDQpNC40LvQuNC80L7QvdC-0LLQsCA0Mywg0JzQuNC90YHQug!5e0!3m2!1sru!2sby!4v1585777823966!5m2!1sru!2sby"
+											width="400" height="250"></iframe></map>
+									</li>
+								</ul>
+							</li>
+						</ul>
+
+						<p><b>Дополнительй коментарий к заказу:</b></p>
+						<textarea name="comment" cols="40" rows="6"
+							placeholder="Если у вас есть дополнительные пожелания, то пожалуйста напишите о них тут."></textarea>
+						<p>Я согласен с условиями и прочитал <span for='checkbox'><span><a href="#">условие
+										пользовательского
+										соглашения</a></span> <label for="sogl"><input id="sogl" type="checkbox"
+										required>Согласен</label></p>
+
+						<input type="submit" value="Подтвердить заказ">
+						<input type="reset" value="Отменить">
+				</fieldset>
+			</form>
+		</div>
+
+	</main>
+	<footer></footer>
+</body>
+
+</html>
