@@ -8,8 +8,8 @@ html {
 }
 
 .post {
-    height: 450px;
-    width: 450px;
+    height: 620px;
+    width: 40%;
     overflow: auto;
     padding: 10px;
     box-sizing: border-box;
@@ -17,7 +17,7 @@ html {
 }
 
 .user__item {
-    display: inline-block;
+    display: -block;
     margin: 10px;
 }
 
@@ -48,7 +48,12 @@ html {
 
 
 .post__item__material {
-    height: 400px;
-    width: 400px;
+    height: 500x;
+    width: 500px;
     object-fit: cover;
+}
+
+iframe{
+    width: 500px;
+    height: 500px;
 }
