@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body {
     margin: 0em;
     padding: 0em;
@@ -10,4 +11,18 @@ body {
     background-repeat: no-repeat, no-repeat, no-repeat;
     background-position: top right, bottom center, center;
     background-size: 300px 300px, 100% 250px, cover;
+=======
+body {
+    margin: 0em;
+    padding: 0em;
+}
+
+.background {
+    width: 100%;
+    height: 100vh;
+    background-image: url(img/sun.png), url(img/sea.jpg), url(img/sky.jpg);
+    background-repeat: no-repeat, no-repeat, no-repeat;
+    background-position: top right, bottom center, center;
+    background-size: 300px 300px, 100% 250px, cover;
+>>>>>>> eba137ef1c5d9bcdd34c2956bd2306ca21d3b902
 }

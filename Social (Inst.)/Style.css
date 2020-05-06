@@ -7,7 +7,6 @@ html {
     font-family: Biorhyme, Arial, Helvetica, sans-serif;
 }
 
-
 /*Скролбар*/
 ::-webkit-scrollbar{
     width: 8px;
@@ -29,6 +28,7 @@ html {
     background: #5A6273;
     border-radius: 15px;
 }
+
 
 .post {
     height: 620px;
